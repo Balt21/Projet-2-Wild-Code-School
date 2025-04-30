@@ -4,17 +4,6 @@
 
  ![debian-12 small](https://github.com/user-attachments/assets/06d1e488-fcc1-4d70-9ba8-ea322695e98a)![microsoft-windows-server-20225184 small](https://github.com/user-attachments/assets/af86e8a1-de24-4946-b7fe-11f0b8386d58)
 
-
----
- # Membres du groupe 
- 
- Chacun des membres a apporté et partagé ces compétences et à occuper un role différent au cours du projet, l'organisation de base était la suivante :
- 
- |  Sébastien  |    Ismail    |  Balthazar  |     Fabien     |
- | ----------- | ------------ | ----------- | ---------------|
- | ProductOwner|    Dev       |    Dev      |   Scrum        |
-
-
 ---
 # **Présentation du Projet**
 
